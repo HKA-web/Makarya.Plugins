@@ -1,0 +1,8 @@
+{
+  "name": "@makarya/plugin-agent-antigravity",
+  "version": "1.0.0",
+  "description": "Antigravity Autonomous Agent (agy) Built-in Plugin for Makarya IDE",
+  "main": "src/index.ts",
+  "author": "Makarya AI Lab / Google Deepmind",
+  "license": "MIT"
+}

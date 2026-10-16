@@ -6,3 +6,4 @@
 export * from './theme-studio-icons/src/index'
 export * from './tag-intelligence/src/index'
 export * from './database-ai-tool/src/index'
+export * from './agent-antigravity/src/index'
